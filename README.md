@@ -12,7 +12,7 @@ The application includes a landing page showing what I do, my education backgrou
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://github.com/arilobi/portfolio-sdft11)
+* You can view the web live on [Portfolio](https://github.com/arilobi/portfolio-sdft11/)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -21,7 +21,7 @@ The application works perfectly well, no bugs.
 HTML, CSS , Fontawesome icons, GIT
 
 ## Support and contact details
-email :: kelvinkipchumba002@gmail.com
+email :: arinabulobi@gmail.com
 
 ### License
 *LIcenced under the [MT-licence](https://github.com/arilobi/portfolio-sdft11/blob/master/LICENSE.md)*
