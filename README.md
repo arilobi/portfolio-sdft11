@@ -12,7 +12,7 @@ The application includes a landing page showing what I do, my education backgrou
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://github.com/arilobi/portfolio-sdft11/)
+* You can view the web live on [Portfolio](https://arilobi.github.io/portfolio-sdft11/)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
